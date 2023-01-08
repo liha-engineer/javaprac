@@ -1,5 +1,6 @@
 # javaprac
-JAVA로 만든 무언가. 기초 문법과 컨벤션을 익히면서, 첫 걸음마부터. ~~선배들이 Hello World 할때 도망가야 한댔는데, 결국 도망실패.~~
+JAVA로 만든 무언가. 기초 문법과 컨벤션을 익히면서, 첫 걸음마부터. 
+~~선배들이 Hello World 할때 도망가야 한댔는데, 결국 도망실패.~~
 ###### ~~You gotta run away when you see the 'Hello something(!)' for the first time in your life.~~ 
 
 
